@@ -19,11 +19,11 @@ LastNight helps students prepare smarter during exam season by transforming stud
 - 🤖 AI Tutor
 - 📊 Quiz Attempts & Performance Tracking
 
-## 🎯 Problem
+🎯 Problem
 
 College students often struggle with lengthy notes and lack enough time before exams. LastNight simplifies preparation by providing structured, high-impact study material that helps students revise efficiently and score better.
 
-## 💡 Solution
+💡 Solution
 
 Upload study resources and get:
 
@@ -36,29 +36,29 @@ Upload study resources and get:
 - PYQ-based preparation
 - Last-minute exam summaries
 
-## 🛠 Tech Stack
+🛠 Tech Stack
 
-### Frontend
+Frontend
 - Next.js
 - React.js
 - Tailwind CSS
 
-### Backend
+Backend
 - Node.js
 
-### Database
+Database
 - Supabase
 
-### Authentication
+Authentication
 - Supabase Auth
 
-### Deployment
+Deployment
 - Vercel
 
-### Payments
+Payments
 - Razorpay
 
-## 📦 Free Plan
+📦 Free Plan
 
 - 1 PDF Upload
 - 10 MCQs
