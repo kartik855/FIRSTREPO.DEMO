@@ -46,10 +46,8 @@ Upload study resources and get:
 
 ### Backend
 - Node.js
-- Express.js
 
 ### Database
-- PostgreSQL
 - Supabase
 
 ### Authentication
@@ -59,7 +57,7 @@ Upload study resources and get:
 - Vercel
 
 ### Payments
-- Razorpay / Stripe
+- Razorpay
 
 ## 📦 Free Plan
 
