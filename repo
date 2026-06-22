@@ -1,4 +1,114 @@
 its my first repo.
 please read the readme file to get the correct information about the deployed site.
 the only platform where the student from the university can come and enroll.
-where they can come from the study purpose and where they can to do the 
+# 🌙 LastNight
+
+> AI-powered exam survival platform built for Indian college students.
+
+LastNight helps students prepare smarter during exam season by transforming study material into concise notes, important questions, MCQs, flashcards, viva questions, revision sheets, and exam-night summaries.
+
+## 🚀 Features
+
+- 📚 Theory Notes
+- ❓ Important Questions
+- 📝 MCQ Generation
+- 🎤 Viva Questions
+- ⚡ Revision Sheets
+- 🧠 Flashcards
+- 📖 Previous Year Question (PYQ) Focused Preparation
+- 🌙 Exam-Night Summaries
+- 🤖 AI Tutor
+- 📊 Quiz Attempts & Performance Tracking
+
+## 🎯 Problem
+
+College students often struggle with lengthy notes and lack enough time before exams. LastNight simplifies preparation by providing structured, high-impact study material that helps students revise efficiently and score better.
+
+## 💡 Solution
+
+Upload study resources and get:
+
+- Concise theory notes
+- Important exam questions
+- AI-generated MCQs
+- Viva questions
+- Revision sheets
+- Flashcards
+- PYQ-based preparation
+- Last-minute exam summaries
+
+## 🛠 Tech Stack
+
+### Frontend
+- Next.js
+- React.js
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- PostgreSQL
+- Supabase
+
+### Authentication
+- Supabase Auth
+
+### Deployment
+- Vercel
+
+### Payments
+- Razorpay / Stripe
+
+## 📦 Free Plan
+
+- 1 PDF Upload
+- 10 MCQs
+- 5 Theory Questions
+- 5 Viva Questions
+- 1 Revision Sheet
+- 1 CBT Mock Test
+- 1 Current Affairs Quiz
+- 1 AI Study Insight Report
+
+## 💰 Pricing
+
+### ₹69 – Exam Pass
+- Theory Notes
+- 50+ MCQs
+- 3–4 Quiz Attempts
+- 10–15 Important Questions
+- Revision Sheet
+- PYQ/FAQ
+- 15–20 Viva Questions
+
+### ₹149 – Smart Prep
+- AI Tutor
+- Theory Notes
+- 100+ MCQs
+- 7 Quiz Attempts
+- Revision Sheet
+- 20–25 Important Questions
+- Flashcards
+- PYQ/FAQ
+- 25–30 Viva Questions
+
+### ₹199 – Exam Dominator
+- AI Tutor
+- Theory Notes
+- 150–200 MCQs
+- Unlimited Quiz Attempts
+- 50 Important Questions
+- Revision Sheet
+- PYQ Marked Questions
+- 25–30 Flashcards
+- 40 Viva Questions
+
+## 🎯 Mission
+
+Helping students study smarter, revise faster, and survive exams with AI-powered preparation tools.
+
+---
+
+Built with ❤️ for students who study at the last night before exams.
